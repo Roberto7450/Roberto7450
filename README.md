@@ -1,15 +1,15 @@
-# ¡Hola! Soy Roberto 👨‍💻
+# 👋 ¡Hola! Soy Roberto Martín
 
 Desarrollador de software especializado en entornos multiplataforma. Me enfoco en crear soluciones eficientes y escalables, con una sólida base en el desarrollo backend, aplicaciones móviles y gestión de bases de datos.
 
 ---
 
 ### 🚀 Sobre mí
-Soy un desarrollador apasionado por la arquitectura de software y la resolución de problemas técnicos. Cuento con experiencia integrando diversas tecnologías para ofrecer productos funcionales y de alta calidad. Mi objetivo es continuar expandiendo mis conocimientos en el ecosistema multiplataforma y contribuir al desarrollo de software robusto siguiendo las mejores prácticas de la industria.
+Soy un desarrollador apasionado por la arquitectura de software y la resolución de problemas técnicos. Cuento con experiencia integrando diversas tecnologías para ofrecer productos funcionales y de alta calidad. Mi objetivo es continuar expandiendo mis conocimientos en el ecosistema multiplataforma y contribuir al desarrollo de software siguiendo las mejores prácticas de la industria.
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Tecnologías y Herramientas
 
 #### **Lenguajes de Programación**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -38,9 +38,3 @@ Soy un desarrollador apasionado por la arquitectura de software y la resolución
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
----
-
-### 📊 Mis Estadísticas de GitHub
-
-![Estadísticas de Roberto](https://github-readme-stats.vercel.app/api?username=Roberto7450&show_icons=true&theme=radical)
